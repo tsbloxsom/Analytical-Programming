@@ -1,4 +1,6 @@
 # Analytical-Programming
+- to view any of the python files, copy the link of the file and use https://nbviewer.jupyter.org/ to view it
+
 - HW1 includes programs that clean and organize data from html and text files
 
 - HW2 includes programs that deal with pandas functions and methods
