@@ -1,7 +1,7 @@
 # Analytical-Programming
-- to view any of the python files, copy the link of the file and use https://nbviewer.jupyter.org/ to view it
+- sometimes jupiter notebooks do not load in github, to view any of the python files, copy the link of the file and use https://nbviewer.jupyter.org/ to view it
 
-- HW1 includes programs that clean and organize data from html and text files
+- HW1 includes programs that clean and organize data from html and text files. I use skills like regular expressions and dictionaries to create a TF-IDF function.
 
 - HW2 includes programs that deal with pandas functions and methods
 
